@@ -1,0 +1,2 @@
+# Backend con express y MongoDB
+En este repositorio se encuentra un API para un blog en donde se pueden realizar publicaciones y recibir comentarios de los diferentes usuarios que interactuan en el sitio web, esto se logro utilizando express como framework para backend, MongoDB para almacenar la información, JWT para hacer la protección de nuestras rutas y moment para el manejo de las diferentes fechas que pueden surir en el desarrollo del mismo.
